@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="../Rlogo.svg" width="48" height="48" alt="R" />
+        <img src="images/Rlogo.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
     </td>
