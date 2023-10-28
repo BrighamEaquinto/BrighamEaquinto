@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="[./img/python-original.svg](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)" width="48" height="48" alt="Python" />
+        <img src="python-logo-only.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
