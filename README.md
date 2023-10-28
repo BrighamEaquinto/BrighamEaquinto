@@ -38,7 +38,7 @@
 
 <h2 style = "text-align: center; text-decoration: none;">Employment History</h2>
 
-<table width="100%">
+<table align = "center">
   <tr>
     <td align="center" width="96">
       <a href="https://www.python.org/">
