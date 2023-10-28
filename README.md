@@ -28,6 +28,12 @@ Here are some ideas to get you started:
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="Rlogo.svg" width="48" height="48" alt="R" />
+      </a>
+      <br>Python
+    </td>
   </tr>
 </table>
 
