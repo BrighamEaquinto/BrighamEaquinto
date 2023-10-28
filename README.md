@@ -38,7 +38,7 @@
 
 <h2 style = "text-align: center; text-decoration: none;">Employment History</h2>
 
-<table align = "center" width = "100%">
+<table align = "center">
   <tr>
     <td align="center" width="96">
       <a href="https://www.python.org/">
@@ -257,7 +257,7 @@
 
 
 ## My Skill Set  
-<table>
+<table align = "center">
   <tr>
     <td valign="top" width="33%">
 
@@ -289,7 +289,12 @@
 </div></td></tr></table>
 
 
+<div align = "center"> 
+  <p>
+  Text here
+  </p>
 ![Visitor Count](https://profile-counter.glitch.me/{brighameaquinto}/count.svg)
+</div>
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
 
