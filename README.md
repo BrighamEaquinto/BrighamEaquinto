@@ -42,6 +42,7 @@ R:
 
 > Tools, languages, and other things that I like to work with
 
+<center>
 <table>
   <tr>
     <td align="center" width="96">
@@ -63,7 +64,7 @@ R:
     </td>
   </tr>
 </table>
-
+</center>
 
 <h2 style = "text-align: center; text-decoration: none;">Employment History</h2>
 
