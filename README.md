@@ -24,15 +24,15 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="python-logo-only.svg" width="48" height="48" alt="Python" />
+        <img src="/images/python-logo-only.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="Rlogo.svg" width="48" height="48" alt="R" />
+        <img src="../Rlogo.svg" width="48" height="48" alt="R" />
       </a>
-      <br>Python
+      <br>R
     </td>
   </tr>
 </table>
