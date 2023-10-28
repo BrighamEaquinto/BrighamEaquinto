@@ -1,8 +1,4 @@
-### Hi there 👋
 
-**BrighamEaquinto/BrighamEaquinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +7,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+
+
+Python: 
+- pandas
+- scikit-learn
+
+R:
+- Tidyverse
 
 
 <a href="www.linkedin.com/in/brighameaquinto">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -23,28 +28,55 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="/images/python-logo-only.svg" width="48" height="48" alt="Python" />
+      <a href="https://www.python.org/">
+        <img src="images/python-logo-only.svg" width="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="images/Rlogo.svg" width="48" height="48" alt="R" />
+      <a href="https://www.r-project.org/">
+        <img src="images/Rlogo.svg" width="48" height="48" alt="R" style="vertical-align:top; margin:6px 4px; height: 48;"/>
       </a>
       <br>R
     </td>
   </tr>
 </table>
 
-<a href="#">
-  <img src="svg/dev/misc/ai.svg" alt="ai" style="vertical-align:top; margin:6px 4px">
-</a> 
 
-<a href="#">
-  <img src="svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
-</a> 
+<h3><span style="width: 100%;text-align: center">Employment History</span></h3>
 
-<a href="#">
-  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-</a> 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://d15mvavv27jnvy.cloudfront.net/WRzXa/a2b6b77391f1ee4765c2b49528ddd75c.jpg?io=true&size=avatar" width="48" alt="Python" />
+      </a>
+      <br>Idaho National Laboratory
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.r-project.org/">
+        <img src="https://datathink.io/images/dtlogo.png" alt="R" style="vertical-align:top; margin:6px 4px; height: 48;"/>
+      </a>
+      <br>DataThink
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.rbdcenter.org/">
+        <img src="https://www.rbdcenter.org/images/2023-09-RBDC-Square-1.png" width="48" alt="BYU-Idaho" />
+      </a>
+      <br>Research Business & Development Center
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.byui.edu/">
+        <img src="https://brightspotcdn.byui.edu/dims4/default/f5188c0/2147483647/strip/true/crop/260x260+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fbyu-idaho-brightspot.s3.amazonaws.com%2Fc9%2F0e%2F34458a174f37bf164a35e66a0cb5%2Fevenmorechubby.jpg" width="48" alt="BYU-Idaho" />
+      </a>
+      <br>BYU - Idaho
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.byupathway.edu/">
+        <img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" width="48" alt="BYU-Idaho" />
+      </a>
+      <br>BYU - Pathways
+    </td>
+  </tr>
+</table>
+
