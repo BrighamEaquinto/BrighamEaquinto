@@ -80,14 +80,21 @@
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="R Bootcamp">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=brighameaquinto.github.io&theme=dracula&border_color=61dafb&border_radius=10">
+  <a 
+    align="left" 
+    href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" 
+    title="R Bootcamp"
+  >
+    <img 
+      align="left" 
+      height="115" 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=brighameaquinto.github.io&theme=dracula&border_color=61dafb&border_radius=10"
+    >
   </a>
-  <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="R Bootcamp">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrighamEaquinto&repo=brighameaquinto.github.io&border_color=61dafb&border_radius=10&theme=dracula)](https://github.com/BrighamEaquinto/brighameaquinto.github.io) 
-
+  <a align="right" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="R Bootcamp">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=brighameaquinto.github.io&theme=dracula&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
@@ -139,3 +146,60 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrighamEaquinto&repo=brighameaquinto.github.io&border_color=61dafb&border_radius=10&theme=dracula)](https://github.com/BrighamEaquinto/brighameaquinto.github.io) 
+
+
+
+<!-- <details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOS 13 Ventura</li>
+	    <li><b>Laptop: </b> Macbook Air M1</li>
+  	    <li><b>Browser: </b> Chrome & Safari</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	</ul>
+</details> -->
+
+
+
+### 🔨 Languages and Tools:
+<a href="https://www.python.org" target="_blank">
+  <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
+</a>
+
+<a href="https://pytorch.org/" target="_blank"> 
+  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
+</a> 
+<a href="https://www.tensorflow.org" target="_blank"> 
+  <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/>
+</a>
+
+
+<br><br>
+
+<h3 align="center">📄 Favorite Languages:</h3>
+<p align="center">
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+</p>
