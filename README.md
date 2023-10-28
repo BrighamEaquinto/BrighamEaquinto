@@ -1,43 +1,16 @@
-# Brigham Eaquinto
+<h2 align = "center" style = "text-decoration: None;"> Brigham Eaquinto </h2>
 
-<a href="www.linkedin.com/in/brighameaquinto">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="www.linkedin.com/in/brighameaquinto" align = "left">
 
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+</a> 
 
-- Current Projects: 
-  - Scikit-Learn Course (Machine Learning with Python)
-  - Git & Github Course
+<a href="mailto:brighameaquint0@gmail.com" align = "right">
+  <img src="images/Gmail_icon_(2020).svg" width = "42"/>
+</a>
 
-
-<h2 align="center">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with
-
-<center>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="images/python-logo-only.svg" width="48" alt="Python" style = "text-align: center; margin: 0 auto;"/>
-      </a>
-      <br> 
-      <div style="text-align: center;">
-        <p style="vertical-align: bottom;">
-          Python
-        </p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.r-project.org/">
-        <img src="images/Rlogo.svg" width="48" height="48" alt="R" style="vertical-align:top; margin:6px 4px; height: 48;"/>
-      </a>
-      <br>R
-    </td>
-  </tr>
-</table>
-</center>
 
 <h2 style = "text-align: center; text-decoration: none;">Employment History</h2>
-
 <table align = "center">
   <tr>
     <td align="center" width="96">
@@ -74,6 +47,40 @@
 </table>
 
 
+
+<h2 align="center">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with
+
+<center>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="images/python-logo-only.svg" width="48" alt="Python" style = "text-align: center; margin: 0 auto;"/>
+      </a>
+      <br> 
+      <div style="text-align: center;">
+        <p style="vertical-align: bottom;">
+          Python
+        </p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.r-project.org/">
+        <img src="images/Rlogo.svg" width="48" height="48" alt="R" style="vertical-align:top; margin:6px 4px; height: 48;"/>
+      </a>
+      <br>R
+    </td>
+  </tr>
+</table>
+</center>
+
+
+
+- Current Projects: 
+  - Scikit-Learn Course (Machine Learning with Python)
+  - Git & Github Course
 
 
 ## Repositories
@@ -290,12 +297,46 @@
 
 
 <div align = "center"> 
-  <p>
-  Text here
-  </p>
-  
+  <h3>
+  Visitor Count
+  </h3>
+
 ![Visitor Count](https://profile-counter.glitch.me/{brighameaquinto}/count.svg)
 </div>
 
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
+    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
+    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
+    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
+    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
+  </p>
+
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
