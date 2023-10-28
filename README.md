@@ -290,3 +290,6 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{brighameaquinto}/count.svg)
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
+
