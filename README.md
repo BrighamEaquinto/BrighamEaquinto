@@ -293,6 +293,7 @@
   <p>
   Text here
   </p>
+  
 ![Visitor Count](https://profile-counter.glitch.me/{brighameaquinto}/count.svg)
 </div>
 
