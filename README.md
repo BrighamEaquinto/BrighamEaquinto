@@ -82,10 +82,12 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="R Bootcamp">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=brighameaquinto.github.io&theme=dracula&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="R Bootcamp">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=react&border_color=61dafb&border_radius=10">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrighamEaquinto&repo=brighameaquinto.github.io&border_color=61dafb&border_radius=10&theme=dracula)](https://github.com/BrighamEaquinto/brighameaquinto.github.io) 
+
   </a>
 </div>
 
@@ -100,7 +102,7 @@
     <img 
       align="left" 
       height="115" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=dracula&border_color=61dafb&border_radius=10"
     >
   </a>
   <a 
@@ -111,7 +113,7 @@
     <img 
       align="right" 
       height="115" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=dracula&border_color=61dafb&border_radius=10"
     >
   </a>
 </div>
@@ -120,10 +122,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=dracula&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=dracula&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
@@ -136,4 +138,4 @@
 </h4>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrighamEaquinto&repo=brighameaquinto.github.io)](https://github.com/BrighamEaquinto/brighameaquinto.github.io) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrighamEaquinto&repo=brighameaquinto.github.io&border_color=61dafb&border_radius=10&theme=dracula)](https://github.com/BrighamEaquinto/brighameaquinto.github.io) 
