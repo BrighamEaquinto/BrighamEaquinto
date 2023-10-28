@@ -11,6 +11,10 @@
         border: 1px solid rgba(0, 0, 0, 0); /* Set the border color with transparency */
         padding: 8px;
     }
+
+    a {
+      text-decoration: none;
+    }
 </style>
 
 - 🔭 I’m currently working on ...
@@ -42,9 +46,14 @@ R:
   <tr>
     <td align="center" width="96">
       <a href="https://www.python.org/">
-        <img src="images/python-logo-only.svg" width="48" alt="Python" />
+        <img src="images/python-logo-only.svg" width="48" alt="Python" style = "text-align: center; margin: 0 auto;"/>
       </a>
-      <br>Python
+      <br> 
+      <div style="text-align: center;">
+        <p style="vertical-align: bottom;">
+          Python
+        </p>
+      </div>
     </td>
     <td align="center" width="96">
       <a href="https://www.r-project.org/">
@@ -56,7 +65,7 @@ R:
 </table>
 
 
-<h3><span style="width: 100%;text-align: center">Employment History</span></h3>
+<h2 style = "text-align: center; text-decoration: none;">Employment History</h2>
 
 <table width="100%">
   <tr>
@@ -89,32 +98,6 @@ R:
         <img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" width="48" alt="BYU-Idaho" />
       </a>
       <br>BYU - Pathways
-    </td>
-  </tr>
-  <tr>
-      <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://d15mvavv27jnvy.cloudfront.net/WRzXa/a2b6b77391f1ee4765c2b49528ddd75c.jpg?io=true&size=avatar" width="48" alt="Python" />
-      </a>
-      <br>Idaho National Laboratory
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.r-project.org/">
-        <img src="https://datathink.io/images/dtlogo.png" alt="R" style="vertical-align:top; margin:6px 4px; height: 48;"/>
-      </a>
-      <br>DataThink
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.rbdcenter.org/">
-        <img src="https://www.rbdcenter.org/images/2023-09-RBDC-Square-1.png" width="48" alt="BYU-Idaho" />
-      </a>
-      <br>Research Business & Development Center
-    </td>
-    <td align="center" width="96">
-      BYU - Idaho
-    </td>
-    <td align="center" width="96">
-      BYU - Pathways
     </td>
   </tr>
 </table>
