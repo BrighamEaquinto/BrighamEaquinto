@@ -182,8 +182,12 @@
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank">
-  <img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
+  <img align="center" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
 </a>
+
+
+
+
 
 <a href="https://pytorch.org/" target="_blank"> 
   <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
@@ -200,6 +204,52 @@
 
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+  <a target="https://www.python.org">
+    <img alt="Python" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height='42px'/>
+  </a>
+  <a target="_blank">
+    <img alt="R" src="images/Rlogo.svg" width ='42px'/>
+  </a>
 </p>
+
+
+
+
+<br><br><br><br>
+
+<details align = "center">
+  <br />
+  <summary><b><h3>Fun Zone</h1></b></summary>
+<div align="center">
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="50%" height="auto" /></a>
+</div>
+
+</details>
+
+
+
+
