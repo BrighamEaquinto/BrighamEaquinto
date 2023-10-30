@@ -135,6 +135,8 @@
 
 <br><br>
 
+<!--
+
 <h3 align="center">📄 Favorite Languages:</h3>
 <p align="center">
   <a target="https://www.python.org">
@@ -370,3 +372,6 @@
 </div>
 
 </details>
+
+
+-->
