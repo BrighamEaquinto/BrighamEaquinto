@@ -211,15 +211,21 @@
         </h1>
         <section class='items'>
           <ul>
-            <li>Writer &#38; Software Engineer</li>
+            <li>Education Enthusiast</li>
           </ul>
           <ul>
+            <li>&#38;</li>
+          </ul>
+          <ul>
+            <li>Data Scientist</li>
+          </ul>
+<!--           <ul>
             <li>at <a href="https://pragmaticpineapple.com">Pragmatic Pineapple</a></li>
           </ul>
           <ul>
             <li><a href="mailto:nikolaseap@gmail.com" role="button"><span class='hi'>👋</span></a></li>
-          </ul>
-        </section>
+          </ul> -->
+        </section> 
       </div>
     </div>
   </div>
