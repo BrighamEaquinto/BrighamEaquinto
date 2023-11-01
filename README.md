@@ -96,9 +96,6 @@
 <a href="https://pandas.pydata.org/">
   <img align="left" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="42px"/>
 </a>
-<a href="https://pandas.pydata.org/">
-  <img align="left" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="" height="42px"/>
-</a>
 <a href="https://numpy.org/"> 
   <img align="left" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" alt="numpy" height="42px"/>  
 </a>
@@ -111,9 +108,15 @@
 <a href="">
   <img align="left" src="https://matplotlib.org/_static/logo_dark.svg" alt="" height="42px"/>
 </a>
+
+<a href="">
+  <img align="left" src="https://matplotlib.org/_static/logo_light.svg" alt="" height="42px"/>
+</a>
+
 <a href="">
   <img align="left" src="https://altair-viz.github.io/_static/altair-logo-light.png" alt="" height="42px"/>
 </a>
+
 <a href="">
   <img align="left" src="" alt="" height="42px"/>
 </a>
