@@ -138,18 +138,47 @@
 
 <br><br>
 
-<!--
 
-<h3 align="center">📄 Favorite Languages:</h3>
-<p align="center">
-  <a target="https://www.python.org">
-    <img alt="Python" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" height='42px'/>
-  </a>
-  <a>
-    <img alt="R" src="images/Rlogo.svg" width ='42px'/>
-  </a>
-</p>
 
+<!-- Fun Zone -->
+
+<details align = "center">
+  <br />
+  <summary><b><h3>Fun Zone</h1></b></summary>
+<div align="center">
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/> -->
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/> -->
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <a href="https://www.buymeacoffee.com/kevcui"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="50%" height="auto" /></a>
+</div>
+
+</details>
+
+
+<br><br>
+
+<!--  -->
 
 ## My Skill Set  
 <table align = "center">
@@ -184,15 +213,17 @@
 </div></td></tr></table>
 
 
-- Current Projects: 
-  - Scikit-Learn Course (Machine Learning with Python)
-  - Git & Github Course
-
 
 <br><br><br><br>
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+
+- Current Projects: 
+  - Scikit-Learn Course (Machine Learning with Python)
+  - Git & Github Course
+
 <br>
 
 <div width="100%" align="center">
@@ -250,13 +281,8 @@
   </a>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br><br><br><br>
 
-<h4 align="center">
-  <a href="https://github.com/brighameaquinto?tab=repositories" title="Show Repositories">
-    🔎 Show More 🔍
-  </a>
-</h4>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrighamEaquinto&repo=brighameaquinto.github.io&border_color=61dafb&border_radius=10&theme=dracula)](https://github.com/BrighamEaquinto/brighameaquinto.github.io) 
@@ -266,10 +292,10 @@
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  Repo info cards - https://github.com/anuraghazra/github-readme-stats
+  Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats
 
-  <!--
+  
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
@@ -283,13 +309,11 @@
     <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
--->
+
 
 <br><br><br><br>
-<!--
 
 
 <h1 align = "center">Other</h1>
@@ -304,78 +328,6 @@
 </div>
 
 
-
-
-
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
-
-
-
-<!-- <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampavangandhi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
-
-<details>
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS 13 Ventura</li>
-	    <li><b>Laptop: </b> Macbook Air M1</li>
-  	    <li><b>Browser: </b> Chrome & Safari</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
- 	    <li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>
-	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
-	</ul>
-</details> -->
-
-
-
-
-
-<details align = "center">
-  <br />
-  <summary><b><h3>Fun Zone</h1></b></summary>
-<div align="center">
-    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/> -->
-    <!-- <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/> -->
-    <!-- <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/> -->
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/> -->
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/> -->
-    <!-- <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/> -->
-    <!-- <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/> -->
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <!-- <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/> -->
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-    <a href="https://www.buymeacoffee.com/kevcui"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="50%" height="auto" /></a>
-</div>
-
-</details>
 
