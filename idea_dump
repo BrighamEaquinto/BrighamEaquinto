@@ -117,3 +117,73 @@ Dump of Ideas:
     <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
     <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
   </p>
+
+
+
+
+
+
+
+<!-- Skill Set Part 2 -->
+
+## My Skill Set  
+
+<table align = "center">
+<tr>
+<td valign="top" width="33%">
+
+
+<h3 align = "center"> Python </h3>
+<div align = "center">
+<a href="https://www.python.org/">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="48" alt="Python" />
+</div>
+<div align="center">
+<img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="50"/>
+<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" alt="numpy" height="50"/>
+<img src="https://raw.githubusercontent.com/scipy/scipy.org/main/static/images/logo.svg" alt="scipy" height="50"/>
+</div>
+</td>
+<td valign="top" width="33%">
+
+
+<h3 align = "center"> R </h3>
+
+<div align="center">  
+  <a href="https://www.r-project.org/">
+    <img style="margin: 10px" src="https://www.r-project.org/logo/Rlogo.svg" alt="Python" height="50"/> 
+  </a>
+</div>
+
+<div>
+  <a href="https://dplyr.tidyverse.org/"> 
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/dplyr.svg" height="50"/>
+  </a>
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+
+<h3 align = "center"> Other </h3>
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+</div>
+</td>
+</tr>
+</table>
+
+
+<!-- Skills Part3 --->
+
+
+|  | Python | R |
+| --- | :---: | :---: |
+| Reading | Pandas | Readr |
+| Wrangling | Pandas | <div> <h3 align="center">Tidyr</h3><div><a href="https://tidyr.tidyverse.org/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/tidyr.svg" height="50"/></a></div> <h3 align="center">Dplyr</h3><div><a href="https://dplyr.tidyverse.org/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/dplyr.svg" height="50"/></a></div> </div> |
+| Visualization | Matplotlib, Altair, Plotly | ggplot2 |
+| Model | Scitkit-Learn, Tensorflow, Pytorch | TidyModels |
+
+
+<br><br><br><br>
