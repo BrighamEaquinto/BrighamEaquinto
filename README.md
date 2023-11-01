@@ -187,136 +187,82 @@
 <!-- Skill Set Part 2 -->
 
 ## My Skill Set  
+
 <table align = "center">
-  <tr>
-    <td valign="top" width="33%">
+<tr>
+<td valign="top" width="33%">
 
 
-<h3 align = "center"> Frontend </h3>
+<h3 align = "center"> Python </h3>
+<div align = "center">
+<a href="https://www.python.org/">
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="48" alt="Python" />
+</div>
 <div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-</div></td><td valign="top" width="33%">
+<img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" alt="pandas" height="50"/>
+<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" alt="numpy" height="50"/>
+<img src="https://raw.githubusercontent.com/scipy/scipy.org/main/static/images/logo.svg" alt="scipy" height="50"/>
+</div>
+</td>
+<td valign="top" width="33%">
 
 
-<h3 align = "center"> Backend </h3>
+<h3 align = "center"> R </h3>
+
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/>    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"/>    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50"/>  
-</div></td><td valign="top" width="33%">
+  <a href="https://www.r-project.org/">
+    <img style="margin: 10px" src="https://www.r-project.org/logo/Rlogo.svg" alt="Python" height="50"/> 
+  </a>
+</div>
+
+<div>
+  <a href="https://dplyr.tidyverse.org/"> 
+    <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/dplyr.svg" height="50"/>
+  </a>
+</div>
+
+</td>
+<td valign="top" width="33%">
 
 
-<h3 align = "center"> DevOps </h3>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<h3 align = "center"> Other </h3>
+<div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div></td></tr></table>
+</div>
+</td>
+</tr>
+</table>
 
+
+<!-- Skills Part3 --->
+
+
+|  | Python | R |
+| --- | :---: | :---: |
+| Reading | Pandas | Readr |
+| Wrangling | Pandas | <div> <h3 align="center">Tidyr</h3><div><a href="https://tidyr.tidyverse.org/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/tidyr.svg" height="50"/></a></div> <h3 align="center">Dplyr</h3><div><a href="https://dplyr.tidyverse.org/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/dplyr.svg" height="50"/></a></div> </div> |
+| Visualization | Matplotlib, Altair, Plotly | ggplot2 |
+| Model | Scitkit-Learn, Tensorflow, Pytorch | TidyModels |
 
 
 <br><br><br><br>
 
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
 
 - Current Projects: 
   - Scikit-Learn Course (Machine Learning with Python)
   - Git & Github Course
 
-<br>
-
 <div width="100%" align="center">
-  <a 
-    align="left" 
-    href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" 
-    title="R Bootcamp"
-  >
-    <img 
-      align="left" 
-      height="115" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=brighameaquinto.github.io&theme=dracula&border_color=61dafb&border_radius=10"
-    >
+  <a align="left" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="R Bootcamp">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=brighameaquinto.github.io&theme=dracula&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="R Bootcamp">
-  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=brighameaquinto.github.io&theme=dracula&border_color=61dafb&border_radius=10">
+  <a align="center" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="Scikit Learn Course">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=scikit-learn-course&theme=dracula&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="Git/Github Course">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=github_course&theme=dracula&border_color=61dafb&border_radius=10">
   </a>
 </div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a
-    align="left" 
-    href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" 
-    title="Turkce-Heceleme-CPP"
-  >
-    <img 
-      align="left" 
-      height="115" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=dracula&border_color=61dafb&border_radius=10"
-    >
-  </a>
-  <a 
-    align="right" 
-    href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" 
-    title="Copy&Move Forgery Detection With DCT"
-  >
-    <img 
-      align="right" 
-      height="115" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=dracula&border_color=61dafb&border_radius=10"
-    >
-  </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=dracula&border_color=61dafb&border_radius=10">
-  </a>
-  <a align="right" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=dracula&border_color=61dafb&border_radius=10">
-  </a>
-</div>
-
-<br><br><br><br>
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrighamEaquinto&repo=brighameaquinto.github.io&border_color=61dafb&border_radius=10&theme=dracula)](https://github.com/BrighamEaquinto/brighameaquinto.github.io) 
-
-
-
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-  Repo info cards - https://github.com/anuraghazra/github-readme-stats
-  Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats
-
-  
-
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/DenverCoder1/github-readme-youtube-cards"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-youtube-cards&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-youtube-cards"></a>
-    <a href="https://github.com/DenverCoder1/unedit-for-reddit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unedit-for-reddit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unedit-for-reddit"></a>
-    <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
-    <a href="https://github.com/DenverCoder1/latex-gboard-dictionary"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=latex-gboard-dictionary&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="latex-gboard-dictionary"></a>
-    <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=minimalistic-wallpaper&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="minimalistic-wallpaper-collection"></a>
-    <a href="https://github.com/DenverCoder1/table2ascii"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="table2ascii"></a>
-  </p>
-
-</details>
-
-
-
-<br><br><br><br>
