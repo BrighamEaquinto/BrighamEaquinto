@@ -178,7 +178,7 @@
 
 <br><br>
 
-<!--  -->
+<!-- Skill Set Part 2 -->
 
 ## My Skill Set  
 <table align = "center">
@@ -314,20 +314,3 @@
 
 
 <br><br><br><br>
-
-
-<h1 align = "center">Other</h1>
-
-
-<div align = "center"> 
-  <h3>
-  Visitor Count
-  </h3>
-
-![Visitor Count](https://profile-counter.glitch.me/{brighameaquinto}/count.svg)
-</div>
-
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dracula&quote=My%20Quote)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
