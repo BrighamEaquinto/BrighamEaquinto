@@ -205,8 +205,8 @@
         <h1>
           <a href="https://github.com/nikolalsvk">
             <span><em>Brigham Eaquinto</em></span>
-            <span><em>Brigham Eaquinto</em></span>
-            <span><em>Brigham Eaquinto</em></span>
+<!--             <span><em>Brigham Eaquinto</em></span>
+            <span><em>Brigham Eaquinto</em></span> -->
           </a>
         </h1>
         <section class='items'>
@@ -214,7 +214,10 @@
             <li>Data Scientist</li>
           </ul>
           <ul>
-            <li> at the <a href="https://inl.gov/">Idaho National Laboratory</a></li>
+            <li> at the </li>
+          </ul>
+          <ul>
+            <li><a href="https://inl.gov/">Idaho National Laboratory</a></li>
           </ul>
           <ul>
             <li><a href="mailto:brighameaquinto@gmail.com" role="button"><span class='hi'>👋</span></a></li>
