@@ -1,3 +1,4 @@
+<!-- Name & Contact Links -->
 <h1 align = "center"> Brigham Eaquinto </h1>
 
 <a href="www.linkedin.com/in/brighameaquinto" align = "left">
@@ -12,12 +13,12 @@
 
 
 
-<br><br><br><br>
+<br><br>
+
+<!-- Employment History -->
 
 
-
-
-<h2 style = "text-align: center; text-decoration: none;">Employment History</h2>
+<h2 align = "center">Employment History</h2>
 <table align = "center">
   <tr>
     <td align="center" width="96">
@@ -55,14 +56,14 @@
 
 
 
-<br><br><br><br>
+<br><br>
+
+<!-- Tech Skills -->
+
+<h2 align = "center"> 🔨 Languages and Tools: </h2>
 
 
-
-<h2 align="center">Favorite Tech</h2>
-
-<center>
-<table>
+<table align = "center">
   <tr>
     <td align="center" width="96">
       <a href="https://www.python.org/">
@@ -83,10 +84,9 @@
     </td>
   </tr>
 </table>
-</center>
 
 
-### 🔨 Languages and Tools:
+
 <a href="https://www.python.org" align="center">
   <img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
 </a>
@@ -100,7 +100,7 @@
   <img align="left" src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="" height="42px"/>
 </a>
 <a href="https://numpy.org/"> 
-  <img align="left" src="https://numpy.org/images/logo.svg" alt="numpy" height="42px"/> 
+  <img align="left" src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/logomark/numpylogoicon.svg" alt="numpy" height="42px"/>  
 </a>
 <a href="https://scipy.org/">
   <img align="left" src="https://raw.githubusercontent.com/scipy/scipy.org/main/static/images/logo.svg" alt="scipy" height="42px"/>
