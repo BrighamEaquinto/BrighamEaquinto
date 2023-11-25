@@ -81,11 +81,67 @@
   </tr>
   <!-- Bottom Row: Text -->
   <tr>
-    <td align="center">Idaho National Laboratory</td>
-    <td align="center">DataThink</td>
-    <td align="center">Research Business & Development Center</td>
-    <td align="center">BYU Idaho</td>
-    <td align="center">BYU Pathways</td>
+    <td align="center" valign="top">
+      <details align="center">
+        <summary>Idaho National Laboratory</summary>
+        <br>
+        <p><strong>High Performance Computing Team</strong> | April 2023 – Present</p>
+        <ul>
+            <li>Spearheaded development of AI-powered chatbot with the objective of streamlining the IT Help Desk process by leveraging existing data and open source large language models</li>
+            <li>Deployed chatbot ML model on server by building API infrastructure to send user requests, search database, and return model output</li>
+            <li>Integrated API calls to extract tech support ticket history, employing regular expressions for data parsing and cleaning to ensure accurate and relevant information for better chatbot outcomes</li>
+            <li>Built admin dashboard with numerical and graphical summaries for model and system analysis using PlotlyJS</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center" valign="top">
+    <details>
+      <summary>DataThink</summary>
+      <br>
+      <p><strong>Data Consultant</strong> | January 2023 – Present</p>
+      <ul>
+        <li>Engineered report automation package to read and wrangle data to output reports in seconds, empowering clients with numerous company reports within seconds, resulting in a monthly time savings of over 20 hours</li>
+        <li>Seamlessly transitioned proprietary software-based visualizations to open-source alternatives, delivering substantial cost savings of hundreds of dollars per month to clients</li>
+      </ul>
+    </details>
+    </td>
+    <td align="center" valign="top">
+      <details>
+        <summary>Research Business & Development Center</summary>
+        <br>
+        <p><strong>Data Lead</strong> | September 2022 – April 2023</p>
+        <ul>
+            <li>Designed and created PowerBI report for school Board of Trustees and Superintendent on financial management, HR, and student achievement by utilizing measures in DAX resulting in greater school funding</li>
+            <li>Developed data model incorporating multiple data sources to provide reporting capabilities including compelling visualizations and data summaries</li>
+            <li>Met with stakeholders to understand requirements and effectively communicated findings to various audiences</li>
+            <li>Instructed team on PowerBI and DAX; ensured team members were included and excelled by finding natural strengths for greater success</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center" valign="top">
+      <details>
+        <summary>BYU Idaho</summary>
+        <br>
+        <p><strong>Data Analyst</strong> | April 2021 – December 2022</p>
+        <ul>
+            <li>Automated semester reports, saving 3+ weeks of manual reporting each semester by developing reusable R scripts for efficient, high-quality results in every use</li>
+            <li>Led development of tri-university reporting suite using Power BI focusing on retention of online students; reports were utilized by Institutional Research, University Presidential Council for more informed executive decisions</li>
+            <li>Prepared reusable weekly and monthly reports to Student Life executives on program KPIs and past expenditures by automating data pipeline from Qualtrics and university data warehouse to report deployment</li>
+            <li>Guided a team of 5 other analysts in professional development, data manipulation skills, and data visualization theory while fostering a positive work environment</li>
+        </ul>      </details>
+    </td>
+    <td align="center" valign="top">
+      <details>
+        <summary>BYU Pathways</summary>
+        <br>
+        <p><strong>Data Scientist</strong> | January 2022 – April 2022</p>
+        <ul>
+            <li>Created ML model using scikit-learn to predict student retention ensuring maximum model performance; the model was implemented university-wide</li>
+            <li>Leveraged topic modeling to label text data using NLP packages, enabling the use of 10% more features incorporated in the student success prediction model</li>
+            <li>Quantified and modeled student KPIs by statistical measurements for effective and reusable progress tracking, increasing faculty effectiveness by 30%</li>
+        </ul>
+      </details>
+    </td>
   </tr>
 </table>
 
