@@ -20,31 +20,25 @@
 </div>
 
 
-<br>
+<br><br>
 
 
 <table cellspacing="20" align="center">
   <tr>
     <td valign="top">
-      <ul> 
-        <h2>Finished Projects</h2>
-          <li>R Bootcamp</li>
-      </ul>
+      <h2>Finished Projects</h2>
+        <p>R Bootcamp</p>
     </td>
     <td valign="top">
-      <ul> 
-        <h2>Current Projects</h2>
-          <li>GitHub</li>
-      </ul>
+      <h2>Current Projects</h2>
+        <p>GitHub</p>
     </td>
     <td valign="top">
-      <ul> 
-        <h2>Future Projects</h2>
-          <li>SQL</li>
-          <li>Scikit-Learn</li>
-          <li>Python</li>
-          <li>Statistics</li>
-      </ul>
+      <h2>Future Projects</h2>
+        <p>SQL</p>
+        <p>Scikit-Learn</p>
+        <p>Python</p>
+        <p>Statistics</p>
     </td>
   </tr>
 </table>
@@ -64,49 +58,83 @@
 <!-- Employment History -->
 <h2 align = "center">Employment History</h2>
 
-<table align = "center" width="100%">
+<table align="center" width="100%">
+  <!-- Top Row: Images -->
   <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://d15mvavv27jnvy.cloudfront.net/WRzXa/a2b6b77391f1ee4765c2b49528ddd75c.jpg?io=true&size=avatar" width="48" alt="Python" />
-      </a>
-      <br>Idaho National Laboratory
+    <td align="center" width="96"> 
+      <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.python.org/">
+          <img src="https://d15mvavv27jnvy.cloudfront.net/WRzXa/a2b6b77391f1ee4765c2b49528ddd75c.jpg?io=true&size=avatar" width="48" alt="Python" />
+        </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      </p>
     </td>
     <td align="center" width="96">
       <a href="https://www.r-project.org/">
-        <img src="https://datathink.io/images/dtlogo.png" alt="R" style="vertical-align:top; margin:6px 4px; height: 48;"/>
+        <img src="https://datathink.io/images/dtlogo.png" alt="R" style="vertical-align: top; margin: 6px 4px; height: 48;" />
       </a>
-      <br>DataThink
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96"> 
       <a href="https://www.rbdcenter.org/">
         <img src="https://www.rbdcenter.org/images/2023-09-RBDC-Square-1.png" width="48" alt="BYU-Idaho" />
       </a>
-      <br>Research Business & Development Center
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96"> 
       <a href="https://www.byui.edu/">
         <img src="https://brightspotcdn.byui.edu/dims4/default/f5188c0/2147483647/strip/true/crop/260x260+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fbyu-idaho-brightspot.s3.amazonaws.com%2Fc9%2F0e%2F34458a174f37bf164a35e66a0cb5%2Fevenmorechubby.jpg" width="48" alt="BYU-Idaho" />
       </a>
-      <br>BYU - Idaho
     </td>
     <td align="center" width="96">
       <a href="https://www.byupathway.edu/">
-        <img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" width="48" alt="BYU-Idaho" />
+        <img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" width="48" alt="BYU-Pathways" />
       </a>
-      <br>BYU - Pathways
     </td>
+  </tr>
+  <!-- Bottom Row: Text -->
+  <tr>
+    <td align="center">Idaho National Laboratory</td>
+    <td align="center">DataThink</td>
+    <td align="center">Research Business & Development Center</td>
+    <td align="center">BYU Idaho</td>
+    <td align="center">BYU Pathways</td>
   </tr>
 </table>
 
 
+<br>
 
-<br><br>
+
+<!-- Fun Zone -->
+<details align = "center">
+  <summary>
+    <b>
+      <h3>Fun Zone</h3>
+    </b>
+  </summary>
+  <div align="center">
+      <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+      <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+      <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="50%" height="auto"/>
+  </div>
+</details>
+
 
 <!-- Tech Skills -->
-
+<!-- 
 <h2 align = "center"> 🔨 Languages and Tools: </h2>
-
 
 <table align = "center">
   <tr>
@@ -130,8 +158,6 @@
   </tr>
 </table>
 
-
-
 <a href="https://www.python.org" align="center">
   <img alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg">
 </a>
@@ -148,7 +174,7 @@
   <img align="left" src="https://raw.githubusercontent.com/scipy/scipy.org/main/static/images/logo.svg" alt="scipy" height="42px"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="">
   <img align="left" src="https://matplotlib.org/_static/logo_dark.svg" alt="" height="42px"/>
@@ -166,7 +192,7 @@
   <img align="left" src="" alt="" height="42px"/>
 </a>
 
-<br><br>
+<br>
 
 <a href="scikit-learn">
   <img align="left" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="" height="42px"/>
@@ -177,12 +203,11 @@
 <a href="https://pytorch.org/"> 
   <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
 </a> 
-
-
-<br>
+-->
 
 
 <!-- Skill Set Part 2 -->
+<!--
 <h2>My Skill Set</h2> 
 
 <table align = "center">
@@ -222,48 +247,19 @@
     </td>
   </tr>
 </table>
-
-
-<br>
+-->
 
 
 <!-- Skills Part3 --->
+<!--
 |  | Python | R |
 | --- | :---: | :---: |
 | Reading | Pandas | Readr |
 | Wrangling | Pandas | <div> <h3 align="center">Tidyr</h3><div><a href="https://tidyr.tidyverse.org/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/tidyr.svg" height="50"/></a></div> <h3 align="center">Dplyr</h3><div><a href="https://dplyr.tidyverse.org/"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/main/SVG/dplyr.svg" height="50"/></a></div> </div> |
 | Visualization | Matplotlib, Altair, Plotly | ggplot2 |
 | Model | Scitkit-Learn, Tensorflow, Pytorch | TidyModels |
+-->
 
-
-
-<!-- Fun Zone -->
-<details align = "center">
-  <summary>
-    <b>
-      <h3>Fun Zone</h3>
-    </b>
-  </summary>
-  <div align="center">
-      <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-      <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-      <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="50%" height="auto"/>
-  </div>
-</details>
 
 <!--
 
