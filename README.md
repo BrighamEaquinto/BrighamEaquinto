@@ -23,7 +23,7 @@
 <br><br>
 
 
-<table align="center">
+<table>
   <tr>
     <td valign="top" align="33%">
       <h2>Finished Projects</h2>
