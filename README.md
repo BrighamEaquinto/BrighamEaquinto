@@ -23,17 +23,17 @@
 <br><br>
 
 
-<table cellspacing="20" align="center">
+<table align="center">
   <tr>
-    <td valign="top">
+    <td valign="top" align="33%">
       <h2>Finished Projects</h2>
         <p>R Bootcamp</p>
     </td>
-    <td valign="top">
+    <td valign="top" align="34%">
       <h2>Current Projects</h2>
         <p>GitHub</p>
     </td>
-    <td valign="top">
+    <td valign="top" align="33%">
       <h2>Future Projects</h2>
         <p>SQL</p>
         <p>Scikit-Learn</p>
@@ -61,27 +61,27 @@
 <table align="center" width="100%">
   <!-- Top Row: Images -->
   <tr>
-  <td align="center" width="96"> 
+  <td align="center" width="20%"> 
       <a href="https://www.python.org/">
         <img src="https://d15mvavv27jnvy.cloudfront.net/WRzXa/a2b6b77391f1ee4765c2b49528ddd75c.jpg?io=true&size=avatar" width="200" alt="Python" />
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://www.r-project.org/">
         <img src="https://datathink.io/images/dtlogo.png" alt="R" width="200" />
       </a>
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="20%"> 
       <a href="https://www.rbdcenter.org/">
         <img src="https://www.rbdcenter.org/images/2023-09-RBDC-Square-1.png" width="200" alt="BYU-Idaho" />
       </a>
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="20%"> 
       <a href="https://www.byui.edu/">
         <img src="https://brightspotcdn.byui.edu/dims4/default/f5188c0/2147483647/strip/true/crop/260x260+0+0/resize/150x150!/quality/90/?url=http%3A%2F%2Fbyu-idaho-brightspot.s3.amazonaws.com%2Fc9%2F0e%2F34458a174f37bf164a35e66a0cb5%2Fevenmorechubby.jpg" width="200" alt="BYU-Idaho" />
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center" width="20%">
       <a href="https://www.byupathway.edu/">
         <img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" width="200" alt="BYU-Pathways" />
       </a>
