@@ -47,14 +47,6 @@
 <br>
 
 
-<!--
-<div style="width: 100%;">
-  <a href="https://github.com/brighameaquinto/brighameaquinto/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
--->
-
 <!-- Employment History -->
 <h2 align = "center">Employment History</h2>
 
@@ -272,6 +264,15 @@
   </a>
   <a align="right" href="https://github.com/BrighamEaquinto/brighameaquinto.github.io" title="Git/Github Course">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=brighameaquinto&repo=github_course&theme=dracula&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+-->
+
+
+<!--
+<div style="width: 100%;">
+  <a href="https://github.com/brighameaquinto/brighameaquinto/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 -->
