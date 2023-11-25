@@ -36,7 +36,7 @@
     <td valign="top" align="33%">
       <h2>Future Projects</h2>
         <p>SQL</p>
-        <p>Scikit-Learn</p>
+        <a href="https://github.com/BrighamEaquinto/scikit-learn-course"><p>Scikit-Learn</p></a>
         <p>Python</p>
         <p>Statistics</p>
     </td>
