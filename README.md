@@ -27,7 +27,7 @@
   <tr>
     <td valign="top" align="33%">
       <h2>Finished Projects</h2>
-        <p>R Bootcamp</p>
+        <a href="https://brighameaquinto.github.io/"><p>R Bootcamp</p></a>
     </td>
     <td valign="top" align="34%">
       <h2>Current Projects</h2>
