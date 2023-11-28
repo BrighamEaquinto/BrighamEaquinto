@@ -75,7 +75,7 @@
     </td>
     <td align="center" width="10%">
       <a href="https://www.byupathway.edu/">
-        <img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" width="200" alt="BYU-Pathways" />
+        <img src="https://byu-pathway.brightspotcdn.com/42/2e/4d4c7b10498c84233ae51179437c/byu-pw-icon-gold-rgb-1-1.svg" width="200" alt="BYU-Pathway" />
       </a>
     </td>
   </tr>
@@ -86,11 +86,10 @@
         <summary>Idaho National Laboratory</summary>
         <br>
         <p><strong>High Performance Computing Team</strong> | April 2023 – Present</p>
-        <ul>
-            <li>Spearheaded development of AI-powered chatbot with the objective of streamlining the IT Help Desk process by leveraging existing data and open source large language models</li>
-            <li>Deployed chatbot ML model on server by building API infrastructure to send user requests, search database, and return model output</li>
-            <li>Integrated API calls to extract tech support ticket history, employing regular expressions for data parsing and cleaning to ensure accurate and relevant information for better chatbot outcomes</li>
-            <li>Built admin dashboard with numerical and graphical summaries for model and system analysis using PlotlyJS</li>
+        <td>Spearheaded development of AI-powered chatbot with the objective of streamlining the IT Help Desk process by leveraging existing data and open source large language models</td>
+        <td>Deployed chatbot ML model on server by building API infrastructure to send user requests, search database, and return model output</td>
+        <td>Integrated API calls to extract tech support ticket history, employing regular expressions for data parsing and cleaning to ensure accurate and relevant information for better chatbot outcomes</td>
+        <td>Built admin dashboard with numerical and graphical summaries for model and system analysis using PlotlyJS</td>
         </ul>
       </details>
     </td>
@@ -132,7 +131,7 @@
     </td>
     <td align="center" valign="top">
       <details>
-        <summary>BYU Pathways</summary>
+        <summary>BYU Pathway</summary>
         <br>
         <p><strong>Data Scientist</strong> | January 2022 – April 2022</p>
         <ul>
