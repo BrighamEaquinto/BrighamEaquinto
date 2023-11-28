@@ -86,10 +86,11 @@
         <summary>Idaho National Laboratory</summary>
         <br>
         <p><strong>High Performance Computing Team</strong> | April 2023 – Present</p>
-        <td>Spearheaded development of AI-powered chatbot with the objective of streamlining the IT Help Desk process by leveraging existing data and open source large language models</td>
-        <td>Deployed chatbot ML model on server by building API infrastructure to send user requests, search database, and return model output</td>
-        <td>Integrated API calls to extract tech support ticket history, employing regular expressions for data parsing and cleaning to ensure accurate and relevant information for better chatbot outcomes</td>
-        <td>Built admin dashboard with numerical and graphical summaries for model and system analysis using PlotlyJS</td>
+        <ul>
+            <li>Spearheaded development of AI-powered chatbot with the objective of streamlining the IT Help Desk process by leveraging existing data and open source large language models</li>
+            <li>Deployed chatbot ML model on server by building API infrastructure to send user requests, search database, and return model output</li>
+            <li>Integrated API calls to extract tech support ticket history, employing regular expressions for data parsing and cleaning to ensure accurate and relevant information for better chatbot outcomes</li>
+            <li>Built admin dashboard with numerical and graphical summaries for model and system analysis using PlotlyJS</li>
         </ul>
       </details>
     </td>
