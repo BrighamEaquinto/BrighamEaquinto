@@ -85,7 +85,8 @@
       <details align="center">
         <summary>Idaho National Laboratory</summary>
         <br>
-        <p><strong>High Performance Computing Team</strong> | April 2023 – Present</p>
+        <p><strong>High Performance Computing Team</strong></p>
+        <p>April 2023 – Present</p>
         <ul>
             <li>Spearheaded development of AI-powered chatbot with the objective of streamlining the IT Help Desk process by leveraging existing data and open source large language models</li>
             <li>Deployed chatbot ML model on server by building API infrastructure to send user requests, search database, and return model output</li>
@@ -98,7 +99,8 @@
     <details>
       <summary>DataThink</summary>
       <br>
-      <p><strong>Data Consultant</strong> | January 2023 – Present</p>
+      <p><strong>Data Consultant</strong></p>
+      <p>January 2023 – Present</p>
       <ul>
         <li>Engineered report automation package to read and wrangle data to output reports in seconds, empowering clients with numerous company reports within seconds, resulting in a monthly time savings of over 20 hours</li>
         <li>Seamlessly transitioned proprietary software-based visualizations to open-source alternatives, delivering substantial cost savings of hundreds of dollars per month to clients</li>
@@ -109,7 +111,8 @@
       <details>
         <summary>Research Business & Development Center</summary>
         <br>
-        <p><strong>Data Lead</strong> | September 2022 – April 2023</p>
+        <p><strong>Data Lead</strong></p>
+        <p>September 2022 – April 2023</p>
         <ul>
             <li>Designed and created PowerBI report for school Board of Trustees and Superintendent on financial management, HR, and student achievement by utilizing measures in DAX resulting in greater school funding</li>
             <li>Developed data model incorporating multiple data sources to provide reporting capabilities including compelling visualizations and data summaries</li>
@@ -122,7 +125,8 @@
       <details>
         <summary>BYU Idaho</summary>
         <br>
-        <p><strong>Data Analyst</strong> | April 2021 – December 2022</p>
+        <p><strong>Data Analyst</strong></p>
+        <p>April 2021 – December 2022</p>
         <ul>
             <li>Automated semester reports, saving 3+ weeks of manual reporting each semester by developing reusable R scripts for efficient, high-quality results in every use</li>
             <li>Led development of tri-university reporting suite using Power BI focusing on retention of online students; reports were utilized by Institutional Research, University Presidential Council for more informed executive decisions</li>
@@ -134,7 +138,8 @@
       <details>
         <summary>BYU Pathway</summary>
         <br>
-        <p><strong>Data Scientist</strong> | January 2022 – April 2022</p>
+        <p><strong>Data Scientist</strong></p>
+        <p>January 2022 – April 2022</p>
         <ul>
             <li>Created ML model using scikit-learn to predict student retention ensuring maximum model performance; the model was implemented university-wide</li>
             <li>Leveraged topic modeling to label text data using NLP packages, enabling the use of 10% more features incorporated in the student success prediction model</li>
