@@ -28,6 +28,7 @@
     <td valign="top" align="33%">
       <h2>Finished Projects</h2>
         <a href="https://brighameaquinto.github.io/"><p>R Bootcamp</p></a>
+        <a href="https://brighameaquinto.github.io/"><p>R for Scientific & Numeric Computing</p></a>
     </td>
     <td valign="top" align="34%">
       <h2>Current Projects</h2>
