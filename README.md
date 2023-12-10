@@ -6,7 +6,7 @@
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brighameaquint0@gmail.com" align = "right">
+  <a href="mailto:brighameaquinto@gmail.com" align = "right">
     <img src="images/Gmail_icon_(2020).svg" width = "42"/>
   </a>
 </div>
