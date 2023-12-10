@@ -5,9 +5,11 @@
   <a href="www.linkedin.com/in/brighameaquinto" align="left">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brighameaquinto@gmail.com" align = "right">
-    <img src="images/Gmail_icon_(2020).svg" width = "42"/>
+  
+  <a href="mailto:brighameaquinto@gmail.com" align="right">
+    <img src="images/Gmail_icon_(2020).svg" width="42"/>
   </a>
 </div>
 
