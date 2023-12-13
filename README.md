@@ -33,7 +33,7 @@
     </td>
     <td valign="top" align="34%">
       <h2>Current Projects</h2>
-        <p>GitHub</p>
+        <a href="https://skepfoundation.github.io/pages_course/"><p>GitHub</p></a>
     </td>
     <td valign="top" align="33%">
       <h2>Future Projects</h2>
