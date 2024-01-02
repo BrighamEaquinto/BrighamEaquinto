@@ -49,6 +49,13 @@
 <br>
 
 
+<!-- Current Employment -->
+<h2 align = "center">Current Employment</h2>
+<a href="https://intermountainhealthcare.org/">
+  <img scr="https://intermountainhealthcare.org//-/media/images/images-sc9/Rebrand/ih-logo-reverse"/>
+</a>
+
+
 <!-- Employment History -->
 <h2 align = "center">Employment History</h2>
 
