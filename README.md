@@ -52,7 +52,7 @@
 <!-- Current Employment -->
 <h2 align = "center">Current Employment</h2>
 <a href="https://intermountainhealthcare.org/">
-  <img scr="https://intermountainhealthcare.org//-/media/images/images-sc9/Rebrand/ih-logo-reverse"/>
+  <img scr="https://intermountainhealthcare.org/_next/image?url=%2Fsc10media%2Fimages%2Fintermountain-health%2Flogos%2Flogo-light.ashx%3Fh%3D180%26iar%3D0%26w%3D590%26hash%3DBB3C27B3FF7FDFD676AF54875BE10387&w=256&q=75"/>
 </a>
 
 
