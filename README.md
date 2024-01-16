@@ -39,8 +39,9 @@
       <h2>Future Projects</h2>
         <a href="https://github.com/BrighamEaquinto/SQL_course"><p>SQL</p></a>
         <a href="https://github.com/BrighamEaquinto/scikit-learn-course"><p>Scikit-Learn</p></a>
-        <p>Python</p>
         <a href="https://github.com/BrighamEaquinto/statistics_course"><p>Statistics</p></a>
+        <p>Python</p>
+        <p>Bash (Shell)</p>
     </td>
   </tr>
 </table>
