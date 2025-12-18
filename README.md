@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="www.linkedin.com/in/brighameaquinto/html_page">
+  <a href="https://github.com/BrighamEaquinto/BrighamEaquinto/blob/main/html_file.html">
     HTML Page
   </a>
   
