@@ -7,6 +7,7 @@
   </a>
 
   <a href="www.linkedin.com/in/brighameaquinto/html_page">
+    HTML Page
   </a>
   
   &nbsp;&nbsp;&nbsp;&nbsp;
