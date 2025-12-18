@@ -5,6 +5,9 @@
   <a href="www.linkedin.com/in/brighameaquinto" align="left">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="www.linkedin.com/in/brighameaquinto/html_page">
+  </a>
   
   &nbsp;&nbsp;&nbsp;&nbsp;
   
